@@ -1,0 +1,8 @@
+del QUANTUM.EXE
+
+tpc QNUM_U.PAS
+tpc QMAT_U.PAS
+tpc QBIT_U.PAS
+tpc QDEV_U.PAS
+tpc QUANTUM.PAS
+
