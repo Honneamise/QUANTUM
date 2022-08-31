@@ -110,7 +110,7 @@ round:10 val:FALSE
 ---
 **Notes:**
 
-The file __"trex.zip"__ contains a ready-to-run DOSBOX environment emulating a intel 386 to run and/or modify the program with the included Turbo Pascal 5.5.
+The file __"quantum.zip"__ contains a ready-to-run DOSBOX environment emulating a intel 386 to run and/or modify the program with the included Turbo Pascal 5.5.
 
 
 
